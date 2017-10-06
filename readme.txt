@@ -1,4 +1,4 @@
 Welcome to my first airbook repo
 Learning git is fun so far...
 I added this line in the update_readme branch.
-What a beautiful day.
+What a special day.
