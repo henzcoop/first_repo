@@ -1,4 +1,4 @@
-#henzcoop
+# henzcoop
 
 ### My neighborhood
 
@@ -23,5 +23,5 @@ My favorite foods are:
 
 ### Contact
 
-I'm best reached at ([this address](jamie.henzy@bc.edu))
+I'm best reached at ([this address](https://github.com/henzcoop))
 
